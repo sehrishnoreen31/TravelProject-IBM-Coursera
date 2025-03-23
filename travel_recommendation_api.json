@@ -1,0 +1,34 @@
+{
+    "recommendations": [
+      {
+        "name": "Bali",
+        "description": "A tropical paradise known for its beaches, temples, and vibrant culture.",
+        "imageUrl": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "beach"
+      },
+      {
+        "name": "Kyoto",
+        "description": "A historic city in Japan famous for its temples, gardens, and traditional culture.",
+        "imageUrl": "https://images.unsplash.com/photo-1565195161077-f5c5f61f9ea2?q=80&w=1524&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "temple"
+      },
+      {
+        "name": "Paris",
+        "description": "The capital of France, known for its art, fashion, and iconic landmarks like the Eiffel Tower.",
+        "imageUrl": "https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "city"
+      },
+      {
+        "name": "Santorini",
+        "description": "A stunning Greek island with white-washed buildings and breathtaking sunsets.",
+        "imageUrl": "https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "category": "beach"
+      },
+      {
+        "name": "Machu Picchu",
+        "description": "An ancient Incan city nestled in the Andes Mountains of Peru.",
+        "imageUrl": "https://plus.unsplash.com/premium_photo-1689838027426-bf5cc3a0131f?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "temple"
+      }
+    ]
+  }
